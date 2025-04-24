@@ -129,6 +129,8 @@ Staircase Lights -6
 
 Mandala Paint
 
+Mandala Black Base
+
 ACP Sheet Silicon missing at some places
 
 Panel T joint missing some places
@@ -145,7 +147,7 @@ Lower ground outer washroom door install
 
 Lower ground socket below window
 
-Boundary wall tile
+~~Boundary wall tile~~
 
 Diamond Granite polish in staircase, porch, ramp, kitchen
 
