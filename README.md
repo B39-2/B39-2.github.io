@@ -46,6 +46,7 @@ Hand shower replacement
 
 Toilet seat silver jet
 
+
 ## Rear
 
 Floor Tile Cement Fill
@@ -65,7 +66,8 @@ Bathtub fillers
 Wire Hide above bathtub
 
 Bathtub - wall gap 
-Glass Separator beside 2nd niche  ## Outer Bedroom
+Glass Separator beside 2nd niche
+  ## Outer Bedroom
 
 Cupboard Handles
 
