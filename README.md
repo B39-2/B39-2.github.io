@@ -78,7 +78,7 @@ Switch Board below shower
 
 ## Outer Bedroom
 
-Cupboard Handles
+~~Cupboard Handles~~
 
 TV Unit Profile Light
 
