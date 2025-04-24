@@ -68,7 +68,14 @@ Wire Hide above bathtub
 
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
-   ## Outer Bedroom
+  
+
+## Outer Washroom
+
+Switch Board below shower
+
+
+## Outer Bedroom
 
 Cupboard Handles
 
@@ -77,11 +84,6 @@ TV Unit Profile Light
 TV Unit Black Tinted Glass
 
 Wall Profile Light
-
-
-## Outer Washroom
-
-Switch Board below shower
 
 
 ## Terrace
