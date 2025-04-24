@@ -113,6 +113,8 @@ Pergola 6 lights
 
 ACP panels open from top
 
+Crack in pergola side wall
+
 
 
 ## Elevation
