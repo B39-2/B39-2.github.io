@@ -121,13 +121,15 @@ Crack in pergola side wall
 
 Main Gate CNC and glass
 
-Elevation Lights
+Elevation Lights -10
 
-Staircase Lights
+Staircase Lights -6
 
 Mandala Paint
 
 ACP Sheet Silicon missing at some places
+
+Panel T joint missing some places
 
 2 Exhaust
 
