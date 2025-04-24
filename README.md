@@ -138,4 +138,10 @@ Diamond Granite polish in staircase, porch, ramp, kitchen
 Not replaced jointed ACP sheet outside front
 
 
+## Others
+
+patches in paint
+
+chaukhat repairs
+
 Remove debris from Homefront
