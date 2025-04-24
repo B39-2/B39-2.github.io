@@ -15,7 +15,7 @@ Asbestos sheet in Kitchen counter
 
 Light in Kitchen Counter
 
-Kitchen Cabinet Doors, handles and separator
+Kitchen counter Cabinet Doors, handles and separator
 
 Wooden Finish in U around kitchen counter
 
@@ -43,9 +43,6 @@ Switch Boards Hole Closure near louvers
 
 Washroom Door handle
 
-Hand shower replacement
-
-Toilet seat silver jet
 
 
 ## Rear
@@ -68,7 +65,10 @@ Wire Hide above bathtub
 
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
-  
+  Hand shower replacement
+
+Toilet seat silver jet
+
 
 ## Outer Washroom
 
@@ -84,6 +84,8 @@ TV Unit Profile Light
 TV Unit Black Tinted Glass
 
 Wall Profile Light
+
+Switch Boards Hole Closure near louvers
 
 
 ## Terrace
