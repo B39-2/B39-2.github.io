@@ -1,7 +1,7 @@
 # B39-2.github.io
 
 ## Kitchen
-Chimney Hole
+~~ Chimney Hole ~~
 
 Exhaust
 
