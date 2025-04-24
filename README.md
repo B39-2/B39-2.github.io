@@ -47,7 +47,7 @@ Washroom Door handle
 
 ## Rear
 
-Floor Tile Cement Fill
+~~Floor Tile Cement Fill~~
 
 Exhaust Wall putty
 
@@ -97,9 +97,9 @@ Door Wooden Paint
 
 ~~6 broken tiles change~~
 
-Epoxy fill at entrance tiles
+~~Epoxy fill at entrance tiles~~
 
-Broken Jaal wall fix
+~~Broken Jaal wall fix~~
 
 3 drain and walls fix
 
