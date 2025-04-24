@@ -30,6 +30,7 @@ Ceiling Profile Light
 
 Floor Tile Chip at entrance
 
+
 ## Inner Bedroom
 
 Pants Holder in 2 cupboards
@@ -76,6 +77,7 @@ TV Unit Profile Light
 TV Unit Black Tinted Glass
 
 Wall Profile Light
+
 
 ## Outer Washroom
 
