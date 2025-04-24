@@ -68,7 +68,7 @@ Wire Hide above bathtub
 
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
-  ## Outer Bedroom
+   ## Outer Bedroom
 
 Cupboard Handles
 
