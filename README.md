@@ -84,6 +84,8 @@ TV Unit Profile Light
 
 TV Unit Black Tinted Glass
 
+TV unit blank plate
+
 Wall Profile Light
 
 Switch Boards Hole Closure near louvers
@@ -131,11 +133,16 @@ Lower ground outer washroom acp sheet - scating gap
 
 Lower ground outer washroom door install
 
+Lower ground socket below window
+
 Boundary wall tile
 
 Diamond Granite polish in staircase, porch, ramp, kitchen
 
 Not replaced jointed ACP sheet outside front
+
+Railings edges finishing 
+
 
 
 ## Others
