@@ -1,7 +1,7 @@
 # B39-2.github.io
 
 ## Kitchen
-~~Chimney Hole~~
+Chimney Hole
 
 Exhaust
 
@@ -93,7 +93,7 @@ Switch Boards Hole Closure near louvers
 
 Door Wooden Paint
 
-6 broken tiles change
+~~6 broken tiles change~~
 
 Epoxy fill at entrance tiles
 
