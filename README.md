@@ -65,7 +65,8 @@ Wire Hide above bathtub
 
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
-  Hand shower replacement
+
+Hand shower replacement
 
 Toilet seat silver jet
 
