@@ -3,7 +3,7 @@
 ## Kitchen
 ~~Chimney Hole~~
 
-Exhaust
+~~Exhaust~~
 
 ~~Pantry Slap Gap~~
 
@@ -17,7 +17,8 @@ Asbestos sheet in Kitchen counter
 
 Kitchen counter Cabinet Doors, handles and separator
 
-Wooden Finish in U around kitchen counter
+Wooden Finish and gap in U around kitchen counter
+
 
 
 ## Living Room
@@ -111,7 +112,7 @@ Mumpty Tanki overflow pipe extend
 
 ~~Mumpty whitewash~~
 
-mumpty ceiling profile light
+~~mumpty ceiling profile light~~
 
 Pergola 6 lights
 
