@@ -148,7 +148,7 @@ Lower ground outer washroom acp sheet - scating gap
 
 Lower ground outer washroom door install
 
-Lower ground socket below window
+~~Lower ground socket below window~~
 
 ~~Boundary wall tile~~
 
