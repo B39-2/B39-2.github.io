@@ -15,7 +15,9 @@ Asbestos sheet in Kitchen counter
 
 ~~Light in Kitchen Counter~~
 
-Kitchen counter Cabinet Doors, handles and separator
+~~Kitchen counter Cabinet Doors, handles~~ 
+
+Kitchen counter cabinet separator
 
 Wooden Finish and gap in U around kitchen counter
 
@@ -36,7 +38,7 @@ Floor Tile Chip at entrance
 
 Pants Holder in 2 cupboards
 
-Wall Profile Light
+Wall Profile Light - wires exposed
 
 ~~Finishing in Louvers~~
 
