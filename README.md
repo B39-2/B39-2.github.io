@@ -1,7 +1,7 @@
 # B39-2.github.io
 
 ## Kitchen
-Chimney Hole
+~~Chimney Hole~~
 
 Exhaust
 
@@ -88,9 +88,9 @@ TV Unit Black Tinted Glass
 
 TV unit blank plate
 
-Wall Profile Light
+~~Wall Profile Light~~
 
-Switch Boards Hole Closure near louvers
+~~Switch Boards Hole Closure near louvers~~
 
 
 ## Terrace
@@ -163,6 +163,6 @@ Railings edges finishing
 
 patches in paint
 
-chaukhat repairs
+chaukhat repairs and finishes
 
 Remove debris from Homefront
