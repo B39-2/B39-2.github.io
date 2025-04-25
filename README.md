@@ -86,7 +86,7 @@ Switch Board below shower
 
 TV Unit Black Tinted Glass
 
-TV unit blank plate
+TV unit blank plate and wire cup
 
 ~~Wall Profile Light~~
 
