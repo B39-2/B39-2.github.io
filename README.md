@@ -5,7 +5,7 @@
 
 Exhaust
 
-Pantry Slap Gap
+~~Pantry Slap Gap~~
 
 Pantry Glass Cleaning from inside
 
@@ -63,7 +63,7 @@ Niche glass separations
 Bathtub fitting 
 Bathtub fillers
 
-Wire Hide above bathtub
+~~Wire Hide above bathtub~~
 
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
