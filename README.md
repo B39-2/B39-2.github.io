@@ -39,7 +39,7 @@ Wall Profile Light
 
 Finishing in Louvers
 
-Switch Boards Hole Closure near louvers
+~~Switch Boards Hole Closure near louvers~~
 
 Washroom Door handle
 
