@@ -56,7 +56,7 @@ Exhaust and Packing
 
 ## Inner Washroom
 
-2 Niche Warm White Lights
+~~2 Niche Warm White Lights~~
 
 Niche glass separations
 
@@ -125,7 +125,7 @@ Crack in pergola side wall
 
 Main Gate CNC and glass
 
-Elevation Lights -10
+~~Elevation Lights -10~~
 
 Staircase Lights -6
 
