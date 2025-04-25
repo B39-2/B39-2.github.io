@@ -13,7 +13,7 @@ Plyboard Separator below slap nearby pantry
 
 Asbestos sheet in Kitchen counter
 
-Light in Kitchen Counter
+~~Light in Kitchen Counter~~
 
 Kitchen counter Cabinet Doors, handles and separator
 
@@ -37,7 +37,7 @@ Pants Holder in 2 cupboards
 
 Wall Profile Light
 
-Finishing in Louvers
+~~Finishing in Louvers~~
 
 ~~Switch Boards Hole Closure near louvers~~
 
@@ -82,7 +82,7 @@ Switch Board below shower
 
 ~~Cupboard Handles~~
 
-TV Unit Profile Light
+~~TV Unit Profile Light~~
 
 TV Unit Black Tinted Glass
 
@@ -109,13 +109,13 @@ Mumpty drains and wall fix
 
 Mumpty Tanki overflow pipe extend
 
-Mumpty whitewash
+~~Mumpty whitewash~~
 
 mumpty ceiling profile light
 
 Pergola 6 lights
 
-ACP panels open from top
+~~ACP panels open from top~~
 
 Crack in pergola side wall
 
@@ -129,7 +129,7 @@ Elevation Lights -10
 
 Staircase Lights -6
 
-Mandala Paint
+~~Mandala Paint~~
 
 Mandala Black Base
 
@@ -139,7 +139,7 @@ Panel T joint missing some places
 
 2 Exhaust
 
-First floor drain
+~~First floor drain~~
 
 First floor outer tiles scratches
 
