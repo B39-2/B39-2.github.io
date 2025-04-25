@@ -85,7 +85,7 @@ Switch Board below shower
 
 ~~TV Unit Profile Light~~
 
-TV Unit Black Tinted Glass
+~~TV Unit Black Tinted Glass~~
 
 TV unit blank plate and wire cup
 
@@ -134,9 +134,9 @@ Staircase Lights -6
 
 Mandala Black Base
 
-ACP Sheet Silicon missing at some places
+ACP Sheet Silicon missing lower ground
 
-Panel T joint missing some places
+~~Panel T joint missing some places~~
 
 2 Exhaust
 
@@ -146,7 +146,7 @@ First floor outer tiles scratches
 
 Lower ground outer washroom acp sheet - scating gap
 
-Lower ground outer washroom door install
+~~Lower ground outer washroom door install~~
 
 ~~Lower ground socket below window~~
 
