@@ -7,7 +7,7 @@
 
 ~~Pantry Slap Gap~~
 
-Pantry Glass Cleaning from inside
+~~Pantry Glass Cleaning from inside~~
 
 Plyboard Separator below slap nearby pantry
 
@@ -21,14 +21,14 @@ Kitchen counter cabinet separator
 
 Wooden Finish and gap in U around kitchen counter
 
-left corner above slap tile gap
+~~left corner above slap tile gap~~
 
 
 ## Living Room
 
 Living Room Main Door Lock Repair
 
-Ceiling Profile Light
+~~Ceiling Profile Light~~
 
 1 Fan Rod 
 
@@ -39,7 +39,7 @@ Floor Tile Chip at entrance
 
 Pants Holder in 2 cupboards
 
-Wall Profile Light - wires exposed
+~~Wall Profile Light - wires exposed~~
 
 ~~Finishing in Louvers~~
 
@@ -53,7 +53,7 @@ Washroom Door handle
 
 ~~Floor Tile Cement Fill~~
 
-Exhaust Wall putty
+~~Exhaust Wall putty~~
 
 Exhaust and Packing
 
@@ -72,9 +72,9 @@ Bathtub fillers
 Bathtub - wall gap 
 Glass Separator beside 2nd niche
 
-Hand shower replacement
+~~Hand shower replacement~~
 
-Toilet seat silver jet
+~~Toilet seat silver jet~~
 
 
 ## Outer Washroom
@@ -133,7 +133,7 @@ Ground floor washrooom washbasin
 
 ~~Elevation Lights -10~~
 
-Staircase Lights -6
+~~Staircase Lights -6~~
 
 ~~Mandala Paint~~
 
@@ -149,7 +149,7 @@ ACP Sheet Silicon missing lower ground
 
 First floor outer tiles scratches
 
-First floor outer tiles 3 hollow
+~~First floor outer tiles 3 hollow~~
 
 Lower ground outer washroom acp sheet - scating gap
 
