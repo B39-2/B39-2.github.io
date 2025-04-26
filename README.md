@@ -129,6 +129,8 @@ Crack in pergola side wall
 
 Main Gate CNC and glass
 
+Ground floor washrooom washbasin
+
 ~~Elevation Lights -10~~
 
 Staircase Lights -6
