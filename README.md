@@ -149,6 +149,8 @@ ACP Sheet Silicon missing lower ground
 
 First floor outer tiles scratches
 
+First floor outer tiles 3 hollow
+
 Lower ground outer washroom acp sheet - scating gap
 
 ~~Lower ground outer washroom door install~~
