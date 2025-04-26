@@ -21,6 +21,7 @@ Kitchen counter cabinet separator
 
 Wooden Finish and gap in U around kitchen counter
 
+left corner above slap tile gap
 
 
 ## Living Room
