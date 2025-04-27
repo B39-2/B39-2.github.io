@@ -19,7 +19,7 @@ Asbestos sheet in Kitchen counter
 
 Kitchen counter cabinet separator
 
-Wooden Finish and gap in U around kitchen counter
+~~Wooden Finish and gap in U around kitchen counter~~
 
 ~~left corner above slap tile gap~~
 
@@ -55,7 +55,9 @@ Washroom Door handle
 
 ~~Exhaust Wall putty~~
 
-Exhaust and Packing
+~~Exhaust and Packing~~
+
+packing finishing
 
 
 ## Inner Washroom
@@ -137,13 +139,13 @@ Ground floor washrooom washbasin
 
 ~~Mandala Paint~~
 
-Mandala Black Base
+~~Mandala Black Base~~
 
 ACP Sheet Silicon missing lower ground
 
 ~~Panel T joint missing some places~~
 
-2 Exhaust
+~~2 Exhaust~~
 
 ~~First floor drain~~
 
@@ -159,11 +161,12 @@ Lower ground outer washroom acp sheet - scating gap
 
 ~~Boundary wall tile~~
 
-Diamond Granite polish in staircase, porch, ramp, kitchen
+~~Diamond Granite polish in staircase, porch~~
+Diamond Granite polish ramp, kitchen
 
 Not replaced jointed ACP sheet outside front
 
-Railings edges finishing 
+~~Railings edges finishing~~
 
 
 
@@ -173,4 +176,4 @@ patches in paint
 
 chaukhat repairs and finishes
 
-Remove debris from Homefront
+~~Remove debris from Homefront~~
