@@ -11,7 +11,7 @@
 
 ~~Plyboard Separator below slap nearby pantry~~
 
-Asbestos sheet in Kitchen counter
+Asbestos sheet in Kitchen counter- finishing
 
 ~~Light in Kitchen Counter~~
 
@@ -32,14 +32,14 @@ Living Room Main Door Lock Repair
 
 ~~Ceiling Profile Light~~
 
-1 Fan Rod 
+~~1 Fan Rod~~
 
 Floor Tile Chip at entrance
 
 
 ## Inner Bedroom
 
-Pants Holder in 2 cupboards
+Pants Holder in 2 cupboards - finishing
 
 ~~Wall Profile Light - wires exposed~~
 
@@ -59,7 +59,7 @@ Washroom Door handle
 
 ~~Exhaust and Packing~~
 
-packing finishing
+~~packing finishing~~
 
 
 ## Inner Washroom
@@ -75,8 +75,8 @@ Bathtub fillers
 
 ~~Wire Hide above bathtub~~
 
-Bathtub - wall gap 
-Glass Separator beside 2nd niche
+~~Bathtub - wall gap~~ 
+~~Glass Separator beside 2nd niche~~
 
 ~~Hand shower replacement~~
 
@@ -130,7 +130,7 @@ Mumpty Tanki overflow pipe extend
 
 ~~mumpty ceiling profile light~~
 
-Pergola 6 lights
+Pergola 6 lights | focus light
 
 ~~ACP panels open from top~~
 
@@ -140,7 +140,7 @@ Crack in pergola side wall
 
 ## Elevation
 
-Main Gate CNC and glass
+~~Main Gate CNC and glass~~
 
 Ground floor washrooom washbasin
 
@@ -155,7 +155,7 @@ and exhaust
 
 ~~Mandala Black Base~~
 
-ACP Sheet Silicon missing lower ground
+~~ACP Sheet Silicon missing lower ground~~
 
 ~~Panel T joint missing some places~~
 
