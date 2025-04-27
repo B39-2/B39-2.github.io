@@ -9,7 +9,7 @@
 
 ~~Pantry Glass Cleaning from inside~~
 
-Plyboard Separator below slap nearby pantry
+~~Plyboard Separator below slap nearby pantry~~
 
 Asbestos sheet in Kitchen counter
 
@@ -17,11 +17,13 @@ Asbestos sheet in Kitchen counter
 
 ~~Kitchen counter Cabinet Doors, handles~~ 
 
-Kitchen counter cabinet separator
+~~Kitchen counter cabinet separator~~
 
 ~~Wooden Finish and gap in U around kitchen counter~~
 
 ~~left corner above slap tile gap~~
+
+kitchen slap granite joint fill
 
 
 ## Living Room
@@ -132,6 +134,8 @@ Crack in pergola side wall
 Main Gate CNC and glass
 
 Ground floor washrooom washbasin
+
+ground floor putty around gate and exhaust
 
 ~~Elevation Lights -10~~
 
