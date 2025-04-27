@@ -134,7 +134,7 @@ Pergola 6 lights | focus light
 
 ~~ACP panels open from top~~
 
-Crack in pergola side wall
+~~Crack in pergola side wall~~
 
 
 
