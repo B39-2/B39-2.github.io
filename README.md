@@ -181,7 +181,7 @@ Not replaced jointed ACP sheet outside front
 
 ~~Railings edges finishing~~
 
-
+whitewash below stairs, ground and first floor
 
 ## Others
 
