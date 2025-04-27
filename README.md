@@ -66,6 +66,8 @@ packing finishing
 
 ~~2 Niche Warm White Lights~~
 
+exhaust cutout white paint and finishing
+
 Niche glass separations
 
 Bathtub fitting 
