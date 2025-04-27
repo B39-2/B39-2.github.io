@@ -144,7 +144,8 @@ Main Gate CNC and glass
 
 Ground floor washrooom washbasin
 
-ground floor putty around gate and exhaust
+Ground floor washroom putty around gate 
+and exhaust
 
 ~~Elevation Lights -10~~
 
