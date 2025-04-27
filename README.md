@@ -103,6 +103,13 @@ TV unit blank plate and wire cup
 ~~Switch Boards Hole Closure near louvers~~
 
 
+## Study
+
+sariya cut
+
+whitewash patchwork
+
+
 ## Terrace
 
 Door Wooden Paint
